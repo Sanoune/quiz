@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "nom": "lol",
+      "prix": 20.50,
+      "stock": 30
+    },
+    {
+      "id": 2,
+      "nom": "lol",
+      "prix": 15.75,
+      "stock": 50
+    },
+    {
+      "id": 3,
+      "nom": "salut",
+      "prix": 10.00,
+      "stock": 25
+    },
+    {
+      "id": 4,
+      "nom": "Dad",
+      "prix": 30.25,
+      "stock": 10
+    },
+    {
+      "id": 5,
+      "nom": "salut",
+      "prix": 25.00,
+      "stock": 15
+    }
+  ]
+  

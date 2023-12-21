@@ -1,0 +1,45 @@
+
+[
+    {
+      "question": "La maladie d'Alzheimer est curable.",
+      "reponse": false
+    },
+    {
+      "question": "La maladie d'Alzheimer est principalement une maladie des jeunes.",
+      "reponse": false
+    },
+    {
+      "question": "La maladie d'Alzheimer affecte uniquement la mémoire.",
+      "reponse": false
+    },
+    {
+      "question": "Il existe des traitements pour arrêter la progression de la maladie d'Alzheimer.",
+      "reponse": false
+    },
+    {
+      "question": "La maladie d'Alzheimer est une forme normale de vieillissement.",
+      "reponse": false
+    },
+    {
+      "question": "Les personnes atteintes d'Alzheimer peuvent avoir des problèmes de langage.",
+      "reponse": true
+    },
+    {
+      "question": "Les médicaments peuvent aider à gérer les symptômes de la maladie d'Alzheimer.",
+      "reponse": true
+    },
+    {
+      "question": "La maladie d'Alzheimer ne touche que le cerveau.",
+      "reponse": false
+    },
+    {
+      "question": "Il existe des facteurs de risque génétiques de la maladie d'Alzheimer.",
+      "reponse": true
+    },
+    {
+      "question": "Les personnes atteintes d'Alzheimer peuvent vivre longtemps après le diagnostic.",
+      "reponse": true
+    }
+    
+  ]
+  
